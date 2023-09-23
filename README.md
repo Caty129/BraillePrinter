@@ -4,3 +4,7 @@
 - OpenScad: Laser cut design https://www.thingiverse.com/thing:2841496
 
 ## Variante Arduino Uno
+![](images/VarianteArduinoUno)
+
+## Variante ESP32
+![](images/VarianteESP32)
