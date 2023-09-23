@@ -3,8 +3,8 @@
 - Instruction videos: https://www.instructables.com/id/Cheap-Braille-Embosser-La-Picoreuse/
 - OpenScad: Laser cut design https://www.thingiverse.com/thing:2841496
 
-## Variante Arduino Uno (poplar wood)
+## Variant Arduino Uno (poplar wood)
 ![](images/VarianteArduinoUno.jpg)
 
-## Variante ESP32 (acrylic)
+## Variant ESP32 (acrylic)
 ![](images/VarianteESP32.jpg)
